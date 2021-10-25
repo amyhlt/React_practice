@@ -1,6 +1,6 @@
-# React_practice
-# Getting Started with Create React App
 
+
+how to POST form data from React to Google Sheets like REST APIs.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
